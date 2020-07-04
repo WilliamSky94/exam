@@ -1,0 +1,5811 @@
+{
+  "examTemplate": {
+    "id": 3,
+    "templateDes": "信贷从业人员准入考试",
+    "templateName": "信贷从业人员准入考试",
+    "totalScore": "100",
+    "timeLimit": "120",
+    "singleNum": "100",
+    "singleScore": "0.5",
+    "singleExtarctRule": "A-16,B-10,C-2,D-22,E-2,F-2,G-4,H-4,I-20,J-16,K-2",
+    "mutiNum": "30",
+    "mutiScore": "1",
+    "mutiExtarctRule": "A-4,B-3,C-1,D-5,E-1,F-1,G-2,H-2,I-6,J-4,K-1",
+    "judgeNum": "20",
+    "judgeScore": "1",
+    "judgeExtarctRule": "A-3,B-2,C-1,D-4,E-1,G-1,H-1,I-4,J-3",
+    "questBankType": "CL",
+    "creator": "admin",
+    "isPractice": "0",
+    "remark": null,
+    "remark2": null
+  },
+  "singleQuesList": [
+    {
+      "id": 675,
+      "content": "下列附条件合同效力的描述，正确的是（    ）。",
+      "scope": "A",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2687,
+          "questionId": "675",
+          "content": "附生效条件的合同，自条件成就时失效",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2690,
+          "questionId": "675",
+          "content": "在附解除条件的合同，当事人为自己的利益不正当地阻止条件成就时，该合同继续有效",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2689,
+          "questionId": "675",
+          "content": "在附生效条件的合同，当事人为自己的利益不正当地阻止条件成就时，该合同生效",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2688,
+          "questionId": "675",
+          "content": "附解除条件的合同，自条件成就时生效",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "content": "《中华人民共和国银行业监督管理法》规定银行业金融机构应当严格遵守（    ）规则。",
+      "scope": "A",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 151,
+          "questionId": "39",
+          "content": "内部控制",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 150,
+          "questionId": "39",
+          "content": "风险管理",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 152,
+          "questionId": "39",
+          "content": "审慎经营",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 149,
+          "questionId": "39",
+          "content": "资产流动性",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "content": "失票人应当在通知挂失止付后（    ）日内，也可以在票据丧失后，依法向人民法院申请公示催告，或者向人民法院提起诉讼。",
+      "scope": "A",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2055,
+          "questionId": "515",
+          "content": "30日",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2053,
+          "questionId": "515",
+          "content": "5日",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2054,
+          "questionId": "515",
+          "content": "15日",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2052,
+          "questionId": "515",
+          "content": "3日",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "content": "票据法上的对价，是指（    ）。",
+      "scope": "A",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2150,
+          "questionId": "540",
+          "content": "票据基础关系中交易的价值",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2151,
+          "questionId": "540",
+          "content": "票据当事人之间买卖票据的价格",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2153,
+          "questionId": "540",
+          "content": "票据行为的原因",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2152,
+          "questionId": "540",
+          "content": "取得票据时双方当事人认可的相对应的代价",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content": "张某按某银行支行的业务印章自己制作了一个业务印章，并印制了空白存单，然后制作了一张20万元的银行存单，并以此从另一家银行获得质押贷款20万元。根据 《刑法》 的有关规定，关于张某的行为，说法正确的是（    ）。",
+      "scope": "A",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 32,
+          "questionId": "8",
+          "content": "若能偿还贷款就不违法，否则违法",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 30,
+          "questionId": "8",
+          "content": "这是合法的，因为张某自己在银行有抵押",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 31,
+          "questionId": "8",
+          "content": "这是不合法的，但不构成犯罪",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 29,
+          "questionId": "8",
+          "content": "这是伪造金融票证的行为",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "content": "（    ）人订立的合同，经法定代理人追认后，该合同有效，但纯获利益的合同或者与其年龄、智力、精神健康状况相适应而订立的合同，不必经法定代理人追认。",
+      "scope": "A",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2677,
+          "questionId": "672",
+          "content": "限制民事行为能力",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2676,
+          "questionId": "672",
+          "content": "完全民事行为能力",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2675,
+          "questionId": "672",
+          "content": "无民事行为能力",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2678,
+          "questionId": "672",
+          "content": "以上都是",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "content": "按照《中华人民共和国担保法》规定，（    ）等以公益为目的的事业单位、社会团体不得为保证人。",
+      "scope": "A",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 81,
+          "questionId": "21",
+          "content": "担保公司",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 80,
+          "questionId": "21",
+          "content": "民营企业",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 79,
+          "questionId": "21",
+          "content": "学校、幼儿园、医院",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 82,
+          "questionId": "21",
+          "content": "小额贷款公司",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "content": "以下记载事项中，不属于票据保证的相对必要记载事项的是（    ）。",
+      "scope": "A",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2123,
+          "questionId": "533",
+          "content": "保证人签章",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2126,
+          "questionId": "533",
+          "content": "保证日期",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2125,
+          "questionId": "533",
+          "content": "被保证人签章",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2124,
+          "questionId": "533",
+          "content": "保证人名称和住所",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 915,
+      "content": "由地方政府发行的一般债券融资，主要以（   ）偿还。",
+      "scope": "A",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3644,
+          "questionId": "915",
+          "content": "政府转移收入",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3646,
+          "questionId": "915",
+          "content": "专项收入",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3645,
+          "questionId": "915",
+          "content": "政府性基金",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3643,
+          "questionId": "915",
+          "content": "一般公共预算收入",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "content": "债权人与债务人协议变更主合同的，应当取得保证人（    ）同意，未经保证人（    ）同意的，保证人不再承担保证责任。保证合同另有约定的，按照约定。",
+      "scope": "A",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 68,
+          "questionId": "18",
+          "content": "纸质  纸质",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 70,
+          "questionId": "18",
+          "content": "协商  协商",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 69,
+          "questionId": "18",
+          "content": "书面  书面",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 67,
+          "questionId": "18",
+          "content": "口头  口头",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "content": "持票人获得付款的，应当在汇票上签收，并将汇票交给（    ）。",
+      "scope": "A",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2130,
+          "questionId": "534",
+          "content": "背书人",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2128,
+          "questionId": "534",
+          "content": "保证人",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2129,
+          "questionId": "534",
+          "content": "付款人",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2127,
+          "questionId": "534",
+          "content": "出票人",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "content": "根据 《中华人民共和国物权法》，异议登记后，申请人在异议登记之日起（    ）内不起诉，异议登记失效；预告登记后，债权消灭或者自能够进行不动产登记之日起（    ）内未申请登记的，预告登记失效。",
+      "scope": "A",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 96,
+          "questionId": "25",
+          "content": "七日  一个月",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 95,
+          "questionId": "25",
+          "content": "十五日  三个月",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 98,
+          "questionId": "25",
+          "content": "十五日  六个月",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 97,
+          "questionId": "25",
+          "content": "十日  三个月",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "content": "新余有限公司共有股东4人，股东刘某为公司执行董事。在公司章程无特别规定的情形下，刘某可以行使下列（    ）职权。",
+      "scope": "A",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 142,
+          "questionId": "37",
+          "content": "否决其他股东对外转让股权行为的效力",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 141,
+          "questionId": "37",
+          "content": "决定公司的投资计划",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 144,
+          "questionId": "37",
+          "content": "决定公司的利润分配方案",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 143,
+          "questionId": "37",
+          "content": "决定聘任公司经理",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "content": "当事人对保证方式没有约定或者约定不明确的，按照（    ）承担保证责任。",
+      "scope": "A",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 61,
+          "questionId": "16",
+          "content": "连带责任保证",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 60,
+          "questionId": "16",
+          "content": "一般保证",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 62,
+          "questionId": "16",
+          "content": "最高额保证",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "content": "最高额抵押担保的债权确定前，抵押权人与抵押人不可以通过协议变更 （    ）。",
+      "scope": "A",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 101,
+          "questionId": "26",
+          "content": "债权范围",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 99,
+          "questionId": "26",
+          "content": "债权确定的期间",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 102,
+          "questionId": "26",
+          "content": "最高债权额",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 100,
+          "questionId": "26",
+          "content": "抵押权顺位",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "content": "（    ）周岁以上的未成年人为限制民事行为能力人，实施民事法律行为由其法定代理人代理或者经其法定代理人同意、追认，但是可以独立实施纯获利益的民事法律行为或者与其年龄、智力相适应的民事法律行为。",
+      "scope": "A",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 44,
+          "questionId": "11",
+          "content": "十六",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 42,
+          "questionId": "11",
+          "content": "八",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 41,
+          "questionId": "11",
+          "content": "十",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 43,
+          "questionId": "11",
+          "content": "十四",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "content": "《个人贷款管理暂行办法》 规定，贷款审查应对贷款调查内容的（    ）进行全面审查。",
+      "scope": "B",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 247,
+          "questionId": "63",
+          "content": "合法性、合理性、准确性 ",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 246,
+          "questionId": "63",
+          "content": "合法性、合规性、完整性     ",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 245,
+          "questionId": "63",
+          "content": "合法性、合规性、准确性 ",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 248,
+          "questionId": "63",
+          "content": "合规性、合理性、完整性",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "content": "商业银行对全部关联方的授信余额不得超过商业银行资本净额的（    ）。",
+      "scope": "B",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 696,
+          "questionId": "175",
+          "content": "15%",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 695,
+          "questionId": "175",
+          "content": "5%",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 694,
+          "questionId": "175",
+          "content": "50%",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 693,
+          "questionId": "175",
+          "content": "10%",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "content": "《个人贷款管理暂行办法》 规定，贷款人应区分个人贷款的（    ）等，确定贷款检查的相应方式、内容和频度。",
+      "scope": "B",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 249,
+          "questionId": "64",
+          "content": "金额、种类、期限",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 250,
+          "questionId": "64",
+          "content": "品种、期限、用途",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 251,
+          "questionId": "64",
+          "content": "品种、对象、金额",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 252,
+          "questionId": "64",
+          "content": "品种、期限、金",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "content": "《银行业金融机构从业人员职业操守指引》规定，从业人员应当具备岗位任职资格或能力，熟练掌握业务技能，自觉遵守行业自律制度和本单位规章制度，（    ）。",
+      "scope": "B",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 494,
+          "questionId": "125",
+          "content": "合法操作",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 495,
+          "questionId": "125",
+          "content": "合理操作",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 493,
+          "questionId": "125",
+          "content": "合规操作",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 496,
+          "questionId": "125",
+          "content": "合适操作",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "content": "融资性担保公司的融资性担保责任余额不得超过其净资产的（    ）倍。",
+      "scope": "B",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1440,
+          "questionId": "361",
+          "content": "20",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1439,
+          "questionId": "361",
+          "content": "15",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1437,
+          "questionId": "361",
+          "content": "5",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1438,
+          "questionId": "361",
+          "content": "10",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "content": "《商业银行与内部人和股东关联交易管理办法》 所称主要非自然人股东是指能够直接、间接、共同持有或控制商业银行（    ）以上股份或表决权的非自然人股东。",
+      "scope": "B",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 662,
+          "questionId": "167",
+          "content": "5%",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 663,
+          "questionId": "167",
+          "content": "15%",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 664,
+          "questionId": "167",
+          "content": "25%",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 661,
+          "questionId": "167",
+          "content": "10%",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "content": "《银行业金融机构从业人员职业操守指引》规定，从业人员不得挪用本单位资金和客户资金或利用本人消费贷款买卖（    ）。",
+      "scope": "B",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 482,
+          "questionId": "122",
+          "content": "股票",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 484,
+          "questionId": "122",
+          "content": "基金",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 483,
+          "questionId": "122",
+          "content": "固定资产",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 481,
+          "questionId": "122",
+          "content": "资本市场产品",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "content": "《商业银行与内部人和股东关联交易管理办法》所称主要自然人股东,是指持有或控制商业银行（    ）以上股份或表决权的自然人股东。",
+      "scope": "B",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 657,
+          "questionId": "166",
+          "content": "10%",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 658,
+          "questionId": "166",
+          "content": "5%",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 660,
+          "questionId": "166",
+          "content": "25%",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 659,
+          "questionId": "166",
+          "content": "15%",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "content": "《单位定期存单质押贷款管理规定》规定，存款行经过审查认为开户证实书证明的存款属实的，应在收到贷款人的有关材料后（    ）个工作日内开具单位定期存单。",
+      "scope": "B",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 393,
+          "questionId": "100",
+          "content": "1",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 395,
+          "questionId": "100",
+          "content": "5",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 394,
+          "questionId": "100",
+          "content": "3",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 396,
+          "questionId": "100",
+          "content": "7",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "content": "《银团贷款业务指引》规定，银团贷款是指由（    ）银行基于相同贷款条件，依据同一贷款合同，按约定时间和比例，通过代理行向借款人提供的本外币贷款或授信业务。",
+      "scope": "B",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1172,
+          "questionId": "294",
+          "content": "七家或七家以上",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1169,
+          "questionId": "294",
+          "content": "两家或两家以上",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1171,
+          "questionId": "294",
+          "content": "五家或五家以上",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1170,
+          "questionId": "294",
+          "content": "三家或三家以上",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "content": "《贷款通则》规定，短期贷款要在贷款到期前（    ），向借款人发出到期贷款催收通知书，按期收回贷款。",
+      "scope": "C",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2314,
+          "questionId": "581",
+          "content": "7天",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2313,
+          "questionId": "581",
+          "content": "5天",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2316,
+          "questionId": "581",
+          "content": "15天",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2315,
+          "questionId": "581",
+          "content": "10天",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "content": "《汽车贷款管理办法》规定，汽车贷款的贷款期限（含展期）不得超过（    ）年，其中，二手车贷款的贷款期限（含展期）不得超过3年，经销商汽车贷款的贷款期限不得超过1年。",
+      "scope": "C",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 445,
+          "questionId": "113",
+          "content": "10",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 448,
+          "questionId": "113",
+          "content": "3",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 447,
+          "questionId": "113",
+          "content": "5",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 446,
+          "questionId": "113",
+          "content": "6",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "content": "《安徽农村商业银行客户经理等级管理指导意见》规定，男满50周岁以上(含)、女满40周岁以上(含)未取得等级标准设定的相应从业资格的,给予（    ）年宽限期,宽限期内其他条件达到的可予以相应等级聘任,宽限期满仍未取得以上的,按照规定下调到相应等级。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 631,
+          "questionId": "159",
+          "content": "3",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 632,
+          "questionId": "159",
+          "content": "5",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 630,
+          "questionId": "159",
+          "content": "2",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 629,
+          "questionId": "159",
+          "content": "1",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 648,
+      "content": "（    ）是风险分类的重要参考指标,农村商业银行应加强贷款的期限管理。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2581,
+          "questionId": "648",
+          "content": "授信期限",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2580,
+          "questionId": "648",
+          "content": "逾期天数",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2582,
+          "questionId": "648",
+          "content": "到期日期",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2579,
+          "questionId": "648",
+          "content": "借款期限",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "content": "《安徽农村商业银行系统信贷责任认定办法》规定，审查人员故意提供虚假审查报告的,审查人员承担（    ）。",
+      "scope": "D",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 944,
+          "questionId": "237",
+          "content": "全部责任",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 942,
+          "questionId": "237",
+          "content": "主要责任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 943,
+          "questionId": "237",
+          "content": "次要责任",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 941,
+          "questionId": "237",
+          "content": "完全责任",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "content": "《安徽农村商业银行系统信贷业务档案管理办法》规定，公安局、检察院、法院及其他执法管理部门需要调阅信贷业务档案时,必须持有（    ）,由支行指定专人负责陪同调阅。",
+      "scope": "D",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 825,
+          "questionId": "208",
+          "content": "介绍信",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 826,
+          "questionId": "208",
+          "content": "调阅单",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 828,
+          "questionId": "208",
+          "content": "查阅公函",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 827,
+          "questionId": "208",
+          "content": "调阅公函",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 651,
+      "content": "《安徽农村商业银行系统信贷资产风险十级分类操作实施细则》规定，新放贷款应在（    ）完成分类认定。",
+      "scope": "D",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2594,
+          "questionId": "651",
+          "content": "当月月底",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2593,
+          "questionId": "651",
+          "content": "放款当日",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2591,
+          "questionId": "651",
+          "content": "当季季末月",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2592,
+          "questionId": "651",
+          "content": "放款后7日时",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "content": "《安徽农村商业银行系统信贷业务档案管理办法》规定，（    ）是信贷档案收集的第一责任人,对信贷档案的真实性、完整性、及时性负责,完成信贷档案资料的收集、整理工作。",
+      "scope": "D",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 773,
+          "questionId": "195",
+          "content": "信贷会计",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 774,
+          "questionId": "195",
+          "content": "档案管理员",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 776,
+          "questionId": "195",
+          "content": "客户经理",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 775,
+          "questionId": "195",
+          "content": "主管会计",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 968,
+      "content": "《安徽农村商业银行系统违规贷款责任追究办法》规定，农商银行（    ）是启动违规贷款责任追究的管理部门，并负责违规贷款责任追究的日常管理。",
+      "scope": "D",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3855,
+          "questionId": "968",
+          "content": "信贷管理部门",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3857,
+          "questionId": "968",
+          "content": "内部审计部门",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3856,
+          "questionId": "968",
+          "content": "授信审批部门",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3858,
+          "questionId": "968",
+          "content": "纪检监察部门",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "content": "《安徽农村商业银行系统统一授信管理操作实施细则》规定，（    ）应根据统一授信的管理方式,严格监督客户最高授信额度的制定和执行情况,对授信风险的管理负直接责任。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1161,
+          "questionId": "292",
+          "content": "董事会",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1163,
+          "questionId": "292",
+          "content": "监事会",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1162,
+          "questionId": "292",
+          "content": "经营管理层",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1164,
+          "questionId": "292",
+          "content": "股东代表大会",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "content": "《安徽农村商业银行系统贷款抵押物评估及管理规程》规定，办妥有效抵押登记后，（    ）办理抵押权利证书移交手续，入库保管。",
+      "scope": "D",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1314,
+          "questionId": "330",
+          "content": "登记后",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1316,
+          "questionId": "330",
+          "content": "放款后",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1315,
+          "questionId": "330",
+          "content": "放款前",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1313,
+          "questionId": "330",
+          "content": "审批后",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "content": "《安徽农村商业银行系统信贷责任认定办法》规定，审查人员未按规定程序和内容进行审查或未按规定出具审查报告的,主审查人员承担（    ）。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 922,
+          "questionId": "232",
+          "content": "主要责任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 924,
+          "questionId": "232",
+          "content": "全部责任",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 923,
+          "questionId": "232",
+          "content": "次要责任",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 921,
+          "questionId": "232",
+          "content": "完全责任",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "content": "《安徽农村商业银行系统银团贷款管理办法》规定，同一客户银团贷款授信实行（    ）控制。",
+      "scope": "D",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1186,
+          "questionId": "298",
+          "content": "金额",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1185,
+          "questionId": "298",
+          "content": "余额",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1187,
+          "questionId": "298",
+          "content": "额度",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1188,
+          "questionId": "298",
+          "content": "总额",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "content": "《安徽农村商业银行系统信贷责任认定办法》规定，审查人员未按规定程序和内容进行审查或未按规定出具审查报告的,审查部门负责人和分支机构负责人(超过权限上报的信贷业务）承担（    ）。",
+      "scope": "D",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 926,
+          "questionId": "233",
+          "content": "主要责任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 928,
+          "questionId": "233",
+          "content": "全部责任",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 925,
+          "questionId": "233",
+          "content": "完全责任",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 927,
+          "questionId": "233",
+          "content": "次要责任",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "content": "《安徽农村商业银行客户经理等级管理指导意见》规定，客户经理在岗期间应按其年度绩效工资一定比例作为延期支付,用于弥补可能出现的（    ）。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 656,
+          "questionId": "165",
+          "content": "违规贷款",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 654,
+          "questionId": "165",
+          "content": "风险损失",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 655,
+          "questionId": "165",
+          "content": "贷款损失",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 653,
+          "questionId": "165",
+          "content": "不良贷款",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "content": "《安徽农村商业银行系统信贷责任认定办法》规定，未及时按照风险分类核心定义、标准和程序认定风险结果,偏离度超过规定要求的,分类操作人员承担（    ）。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 997,
+          "questionId": "251",
+          "content": "完全责任",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 999,
+          "questionId": "251",
+          "content": "次要责任",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 998,
+          "questionId": "251",
+          "content": "主要责任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1000,
+          "questionId": "251",
+          "content": "全部责任",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 981,
+      "content": "《安徽农村商业银行系统集团客户及关联企业统一授信管理操作实施细则》规定，对集团客户授信时,要防范集团客户内部关联方之间（    ）的风险,对于集团客户内部直接控股或者间接控股的关联方之间的相互担保,应严格控制;对关联方担保的授信业务应当从严控制。",
+      "scope": "D",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3909,
+          "questionId": "981",
+          "content": "相互担保",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3907,
+          "questionId": "981",
+          "content": "相互保证",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3908,
+          "questionId": "981",
+          "content": "相互质押",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3910,
+          "questionId": "981",
+          "content": "相互抵押",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "content": "《安徽农村商业银行系统信贷责任认定办法》规定，未在规定时间内安排信贷人员开展贷前调查导致未在规定时间内回复客户的,（    ）承担主要责任,（    ）承担次要责任。",
+      "scope": "D",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 918,
+          "questionId": "231",
+          "content": "调查人员  调查管理部门负责人",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 919,
+          "questionId": "231",
+          "content": "主调查人员  次主调查人员",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 917,
+          "questionId": "231",
+          "content": "调查管理部门负责人  调查人员",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 920,
+          "questionId": "231",
+          "content": "次主调查人员  主调查人员",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "content": "《安徽农村商业银行系统工作人员违规行为处理办法》规定，造成直接经济损失50万元以下的属（    ）行为。",
+      "scope": "D",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 761,
+          "questionId": "192",
+          "content": "轻微违规",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 764,
+          "questionId": "192",
+          "content": "严重违规",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 762,
+          "questionId": "192",
+          "content": "较轻违规",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 763,
+          "questionId": "192",
+          "content": "较重违规",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 957,
+      "content": "《安徽农村商业银行系统客户信用等级评定操作实施细则》规定，（    ）主要用于个人客户的评级。",
+      "scope": "D",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3814,
+          "questionId": "957",
+          "content": "外部评级模型",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3811,
+          "questionId": "957",
+          "content": "内部评级模型",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3813,
+          "questionId": "957",
+          "content": "打分卡模型",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3812,
+          "questionId": "957",
+          "content": "风险计量模型",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "content": "《安徽省农村商业银行系统银行股权质押贷款管理办法》规定，农商银行股东质押本行股权数量达到或超过其持有本行股权的（    ）时,应当对其在股东大会和派出董事在董事会上的表决权进行限制。原则上，仅列席会议，取消表决权。",
+      "scope": "D",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1289,
+          "questionId": "324",
+          "content": "30%",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1290,
+          "questionId": "324",
+          "content": "40%",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1292,
+          "questionId": "324",
+          "content": "60%",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1291,
+          "questionId": "324",
+          "content": "50%",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "content": "《安徽农村商业银行系统信贷责任认定办法》规定，贷后检查部门未及时将风险预警信号报告风险管理部门的,贷后检查部门负责人承担（    ）。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 986,
+          "questionId": "248",
+          "content": "主要责任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 985,
+          "questionId": "248",
+          "content": "完全责任",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 987,
+          "questionId": "248",
+          "content": "次要责任",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 988,
+          "questionId": "248",
+          "content": "全部责任",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "content": "《安徽农村商业银行系统信贷责任认定办法》规定，在信贷业务操作中严重失职或非故意违规,对存在的风险未能识别的，承担（    ）。",
+      "scope": "D",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 860,
+          "questionId": "216",
+          "content": "全部责任",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 857,
+          "questionId": "216",
+          "content": "完全责任",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 859,
+          "questionId": "216",
+          "content": "次要责任",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 858,
+          "questionId": "216",
+          "content": "主要责任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "content": "《安徽农村商业银行系统抵债资产管理办法》规定，（    ）是指农商银行依法行使债权或担保物权而受偿于债务人、担保人或第三人的实物资产或财产权利。",
+      "scope": "D",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2743,
+          "questionId": "689",
+          "content": "以物抵债",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2745,
+          "questionId": "689",
+          "content": "抵押资产",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2744,
+          "questionId": "689",
+          "content": "担保资产",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2746,
+          "questionId": "689",
+          "content": "抵债资产",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "content": "生源地信用助学贷款期限原则上学制加（    ）年确定，但最长不超过20年。",
+      "scope": "E",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1448,
+          "questionId": "363",
+          "content": "15",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1445,
+          "questionId": "363",
+          "content": "8",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1447,
+          "questionId": "363",
+          "content": "13",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1446,
+          "questionId": "363",
+          "content": "10",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "content": "生源地助学贷款借款学生在读期间利息由财政全额贴息，毕业当年（    ）起其利息由学生及其共同借款人共同负担。",
+      "scope": "E",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1444,
+          "questionId": "362",
+          "content": "12月1日",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1442,
+          "questionId": "362",
+          "content": "7月1日",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1443,
+          "questionId": "362",
+          "content": "9月1日",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1441,
+          "questionId": "362",
+          "content": "1月1日",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "content": "同一建档立卡贫困户申请扶贫小额信贷有（    ）。",
+      "scope": "F",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1944,
+          "questionId": "487",
+          "content": "人数不定，有劳动能力即可",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1942,
+          "questionId": "487",
+          "content": "二人",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1943,
+          "questionId": "487",
+          "content": "三人",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1941,
+          "questionId": "487",
+          "content": "一人",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "content": "扶贫小额信贷的贷款对象是（    ）。",
+      "scope": "F",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1924,
+          "questionId": "482",
+          "content": "一般农户",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1921,
+          "questionId": "482",
+          "content": "个体工商户",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1922,
+          "questionId": "482",
+          "content": "家庭农场",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1923,
+          "questionId": "482",
+          "content": "建档立卡贫困户",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "content": "下列对于个人信用报告的作用描述正确的是（    ）。",
+      "scope": "G",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1590,
+          "questionId": "399",
+          "content": "个人信用报告与消费者信贷业务是否获批完全无关",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1591,
+          "questionId": "399",
+          "content": "个人信用报告是消费者信用程度的等级证明",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1589,
+          "questionId": "399",
+          "content": "个人信用报告是消费者信贷业务是否获批的唯一依据",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1592,
+          "questionId": "399",
+          "content": "个人信用报告是消费者信贷业务是否获批的参考依据之一",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "content": "下列不属于当前个人信用信息基础数据库采集的信息是（    ）。",
+      "scope": "G",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1838,
+          "questionId": "461",
+          "content": "2005年4月办理的个人住房公积金贷款",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1840,
+          "questionId": "461",
+          "content": "1998年办理，于2005年5月还清的个人助学贷款",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1837,
+          "questionId": "461",
+          "content": "2003年11月结清注销的信用卡",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1839,
+          "questionId": "461",
+          "content": "2010年9月申请获批的准贷记卡",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "content": "（    ）有权对各金融机构个人信用报告查询的合法、合规性进行检查。",
+      "scope": "G",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1791,
+          "questionId": "449",
+          "content": "中国人民银行征信管理部门",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1792,
+          "questionId": "449",
+          "content": "中国人民银行会计部门",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1790,
+          "questionId": "449",
+          "content": "中国人民银行综合部门",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1789,
+          "questionId": "449",
+          "content": "中国人民银行信贷部门",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "content": "中国人民银行征信管理部门应当在收到异议申请的（    ）个工作日内将异议申请转交征信服务中心。",
+      "scope": "G",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1694,
+          "questionId": "425",
+          "content": "2",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1696,
+          "questionId": "425",
+          "content": "7",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1695,
+          "questionId": "425",
+          "content": "5",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1693,
+          "questionId": "425",
+          "content": "1",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "content": "银行承兑汇票是承兑申请人签发，委托农商银行作为承兑人在（    ）无条件支付确定的金额给收款人或者持票人的票据。",
+      "scope": "H",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2031,
+          "questionId": "509",
+          "content": "出票日",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2028,
+          "questionId": "509",
+          "content": "见票时",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2029,
+          "questionId": "509",
+          "content": "任何日期",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2030,
+          "questionId": "509",
+          "content": "指定日期",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "content": "以下（    ）说法不对。",
+      "scope": "H",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2207,
+          "questionId": "554",
+          "content": "在确认客户缴纳足额承兑保证金后，方可签订合同",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2205,
+          "questionId": "554",
+          "content": "在确认客户缴纳足额承兑保证金后，方可办理出票手续",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2206,
+          "questionId": "554",
+          "content": "在合同签订后，根据担保合同约定，到抵质押登记部门办理登记手续或对质押物实际转移占有",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2208,
+          "questionId": "554",
+          "content": "在办理出票手续后，根据担保合同约定，到抵质押登记部门办理登记手续或对质押物实际转移占有",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "content": "下面关于电子银行承兑汇票的说法正确的（    ）。",
+      "scope": "H",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2080,
+          "questionId": "522",
+          "content": "电子银行承兑汇票不需进行托收交易",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2082,
+          "questionId": "522",
+          "content": "任何在银行开户的对公客户均可作为电子银行承兑汇票的收票人",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2081,
+          "questionId": "522",
+          "content": "电子银行承兑汇票仍需人工传递票据",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2079,
+          "questionId": "522",
+          "content": "电子银行承兑汇票的开立不用建立合同、额度",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "content": "主债务到期日先于质押票据到期日，且主债务到期未履行的，质权人可行使票据权利，但（    ）。",
+      "scope": "H",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2235,
+          "questionId": "561",
+          "content": "应将兑现的票款清偿债权",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2234,
+          "questionId": "561",
+          "content": "应按约定解除质押",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2233,
+          "questionId": "561",
+          "content": "不得继续背书 ",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2236,
+          "questionId": "561",
+          "content": "应继续作为债权担保",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "content": "借款人提前偿还贷款的，除当事人有约定外，应按（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2317,
+          "questionId": "582",
+          "content": "实际借款的时间计算利息",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2320,
+          "questionId": "582",
+          "content": "按实际借款的时间计算利息外，合同剩余期限要罚息。",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2318,
+          "questionId": "582",
+          "content": "按合同期限计算利息",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2319,
+          "questionId": "582",
+          "content": "有当事人协商",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 596,
+      "content": "贷款期限本质上是由资产转换周期决定的，流动资金的资产转换周期应由（    ）组成。",
+      "scope": "I",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2372,
+          "questionId": "596",
+          "content": "存货周转期",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2375,
+          "questionId": "596",
+          "content": "存货周转期与应付账款周转期之和",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2373,
+          "questionId": "596",
+          "content": "应收账款周转",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2374,
+          "questionId": "596",
+          "content": "存货周转期与应收账款周转期之和",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 606,
+      "content": "编制利润表所依据的平衡公式是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2411,
+          "questionId": "606",
+          "content": "收入＝利润",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2413,
+          "questionId": "606",
+          "content": "收入＝成本费用",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2412,
+          "questionId": "606",
+          "content": "成本费用＝利润",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2414,
+          "questionId": "606",
+          "content": "收入—成本费用＝利润",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "content": "贷款人审议借款人借款申请，应及时答复贷与不贷，短期贷款答复时间不得超过（   ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2406,
+          "questionId": "604",
+          "content": "15天",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2405,
+          "questionId": "604",
+          "content": "3个月",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2404,
+          "questionId": "604",
+          "content": "2个月",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2403,
+          "questionId": "604",
+          "content": "1个月",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "content": "下列对贷款的概念的理解，错误的一项是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2276,
+          "questionId": "571",
+          "content": "贷款业务是指商业银行发放贷款相关的各项业务",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2275,
+          "questionId": "571",
+          "content": "贷款是银行最主要的资金运用",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2273,
+          "questionId": "571",
+          "content": "贷款是银行最主要的负债",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2274,
+          "questionId": "571",
+          "content": "贷款是经批准可以经营贷款业务的金融机构对借款人提供的货币资金",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 686,
+      "content": "根据《中国银监会办公厅关于做好2018年银行业三农和扶贫金融服务工作的通知》要求，农村中小金融机构要（    ），发挥好支持乡村振兴的主力军作用。",
+      "scope": "I",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2733,
+          "questionId": "686",
+          "content": "回归本源",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2731,
+          "questionId": "686",
+          "content": "重心下移",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2734,
+          "questionId": "686",
+          "content": "拟定计划",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2732,
+          "questionId": "686",
+          "content": "提高效率",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "content": "下列关于贷后管理的说法，正确的是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2356,
+          "questionId": "592",
+          "content": "与担保人签订贷款担保合同     ",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2358,
+          "questionId": "592",
+          "content": "明确贷后责任，避免重放轻管      ",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2359,
+          "questionId": "592",
+          "content": "将贷款资金划转到借款人账户",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2357,
+          "questionId": "592",
+          "content": "要借款人提出正式的书面贷款申请",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "content": "银行风险是指银行在经营过程中，由于各种（   ）的影响，而使其资产和预期收益遭受损失的可能性。",
+      "scope": "I",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1415,
+          "questionId": "355",
+          "content": "确定因素",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1416,
+          "questionId": "355",
+          "content": "主观因素",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1414,
+          "questionId": "355",
+          "content": "不确定因素",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1413,
+          "questionId": "355",
+          "content": "客观因素",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "content": "下面不属于虚增资产的是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2441,
+          "questionId": "613",
+          "content": "少提或不提折旧",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2439,
+          "questionId": "613",
+          "content": "少列费用随意资产化",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2442,
+          "questionId": "613",
+          "content": "虚增销售收入",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2440,
+          "questionId": "613",
+          "content": "应收款应提坏账准备而未提",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "content": "下列不属于企业或有负债的有（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2424,
+          "questionId": "609",
+          "content": "产品质量保证  ",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2426,
+          "questionId": "609",
+          "content": "应付票据",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2423,
+          "questionId": "609",
+          "content": "未决诉讼",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2425,
+          "questionId": "609",
+          "content": "应收账款抵押  ",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 924,
+      "content": "下列关于风险加权资产（Risk Weighted Assets）的描述正确的是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3681,
+          "questionId": "924",
+          "content": "将银行不同资产按其风险性质对应的权重进行加权计算得到的风险资产总额",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3679,
+          "questionId": "924",
+          "content": "在一定的置信度水平上、一定时间内、为了弥补银行的非预计损失（Unexpected Losses)所需要的资本",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3682,
+          "questionId": "924",
+          "content": "是银行各类资产的总和",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3680,
+          "questionId": "924",
+          "content": "按照监管定性要求和定量要求计量风险并是有相应可予以抵补的资本量",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 925,
+      "content": "企业流动比率小于1时，赊购原材料若干，会给企业报表带来（    ）的变化。",
+      "scope": "I",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3684,
+          "questionId": "925",
+          "content": "使企业的流动比率增大，使速动比率增大",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3685,
+          "questionId": "925",
+          "content": "使企业的流动比率减小，使速动比率减小",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3683,
+          "questionId": "925",
+          "content": "使企业的流动比率增大，使速动比率减小",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3686,
+          "questionId": "925",
+          "content": "使企业的流动比率减小，使速动比率增大",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 626,
+      "content": "某项目当折现率为10%时，其净现值为20，当折现率为12%时，其净现值为-35，则该项目的内部收益率为（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2491,
+          "questionId": "626",
+          "content": "10.7%",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2492,
+          "questionId": "626",
+          "content": "11.7%",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2494,
+          "questionId": "626",
+          "content": "11.3%",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2493,
+          "questionId": "626",
+          "content": "11%",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "content": "如果企业的短期偿债能力很强，则货币资金及变现能力强的流动资产数额与流动负债的数额（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2480,
+          "questionId": "623",
+          "content": "前者大于后者",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2482,
+          "questionId": "623",
+          "content": "两者无关",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2479,
+          "questionId": "623",
+          "content": "基本一致",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2481,
+          "questionId": "623",
+          "content": "前者小于后者",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "content": "不属于筹资活动产生的现金流量的项目是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2421,
+          "questionId": "608",
+          "content": "借款",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2420,
+          "questionId": "608",
+          "content": "发行债券",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2419,
+          "questionId": "608",
+          "content": "吸收资本",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2422,
+          "questionId": "608",
+          "content": "处置固定资产",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 659,
+      "content": "（    ）是指获得银行信用支持的债务人，由于种种原因不能或不愿遵照合同规定，按时偿还债务，从而使银行遭受损失的可能性。",
+      "scope": "I",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2626,
+          "questionId": "659",
+          "content": "流动性风险",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2625,
+          "questionId": "659",
+          "content": "操作风险",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2623,
+          "questionId": "659",
+          "content": "信用风险",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2624,
+          "questionId": "659",
+          "content": "市场风险",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "content": "在各种风险发生前，对风险因素、风险性质及后果、识别方法及效果以及风险类型及其产生的根源等进行分析判断，以便下一步对风险进行计量与评估，这是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 1422,
+          "questionId": "357",
+          "content": "风险计量",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1424,
+          "questionId": "357",
+          "content": "风险控制",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1423,
+          "questionId": "357",
+          "content": "风险监测",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 1421,
+          "questionId": "357",
+          "content": "风险识别",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "content": "（    ）是指因市场价格（包括利率、汇率、股票价格和商品价格）的不利变动，而使银行表内和表外业务发生损失的风险。",
+      "scope": "I",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2629,
+          "questionId": "660",
+          "content": "操作风险",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2630,
+          "questionId": "660",
+          "content": "流动性风险",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2628,
+          "questionId": "660",
+          "content": "市场风险",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2627,
+          "questionId": "660",
+          "content": "信用风险",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "content": "下列不属于贷款基本流程的是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2290,
+          "questionId": "575",
+          "content": "贷后",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2292,
+          "questionId": "575",
+          "content": "登记",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2289,
+          "questionId": "575",
+          "content": "调查",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2291,
+          "questionId": "575",
+          "content": "受理",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "content": "以下关于银行风险与收益的关系，不正确的是（    ）。",
+      "scope": "I",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2620,
+          "questionId": "658",
+          "content": "通常认为，风险越大，盈利越高；风险越小，盈利越低",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2621,
+          "questionId": "658",
+          "content": "在一定条件下，银行盈利与风险可能呈反向关系",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2622,
+          "questionId": "658",
+          "content": "风险就是未来结果（含损益）的确定性",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2619,
+          "questionId": "658",
+          "content": "以“经营风险”为商业银行盈利的根本手段",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "content": "在信贷管理系统中，抵债资产入账价值（    ）。",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3093,
+          "questionId": "776",
+          "content": "抵债借据本金加拖欠利息余额",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3091,
+          "questionId": "776",
+          "content": "公允价值",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3092,
+          "questionId": "776",
+          "content": "抵债借据本金余额",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3094,
+          "questionId": "776",
+          "content": "以上都不对",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "content": "在信贷管理系统中，（    ）是根据担保人客户号进行移交，当查询出担保人名下对应多个押品编号时，只需选中其中一条押品信息后点击确定，在押品移交申请的移交清单中会显示对应的多条押品信息。",
+      "scope": "J",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3287,
+          "questionId": "825",
+          "content": "按客户经理移交",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3286,
+          "questionId": "825",
+          "content": "按客户移交",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3285,
+          "questionId": "825",
+          "content": "按押品移交",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3288,
+          "questionId": "825",
+          "content": "按机构移交",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 735,
+      "content": "在信贷管理系统中，期限变更需满足哪些条件？（    ）",
+      "scope": "J",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2928,
+          "questionId": "735",
+          "content": "已拖欠、未到期",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2929,
+          "questionId": "735",
+          "content": "未结清、未拖欠",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2927,
+          "questionId": "735",
+          "content": "已到期、未拖欠",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2930,
+          "questionId": "735",
+          "content": "已到期、已拖欠",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "content": "在信贷管理系统中，抵债资产接受条件不包含（    ）。",
+      "scope": "J",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3087,
+          "questionId": "775",
+          "content": "贷款减值",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3089,
+          "questionId": "775",
+          "content": "贷款未结清",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3088,
+          "questionId": "775",
+          "content": "贷款不良",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3090,
+          "questionId": "775",
+          "content": "贷款未拖欠",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 898,
+      "content": "最高额担保合同解除在信贷管理系统中（    ）模块中操作。",
+      "scope": "J",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3575,
+          "questionId": "898",
+          "content": "业务处理",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3576,
+          "questionId": "898",
+          "content": "担保管理",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3578,
+          "questionId": "898",
+          "content": "贷后管理",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3577,
+          "questionId": "898",
+          "content": "合同管理",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 838,
+      "content": "（    ）对已经签订完成并且具备发放条件的合同，在此发起放款申请，填写发放金额等相关信息，填写完成后，提交相关环节进行审查。",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3340,
+          "questionId": "838",
+          "content": "发放抹账",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3339,
+          "questionId": "838",
+          "content": "发放入账",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3337,
+          "questionId": "838",
+          "content": "放款申请",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3338,
+          "questionId": "838",
+          "content": "未提交发放申请",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 919,
+      "content": "特殊还款交易说法不正确的是（    ）。",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3659,
+          "questionId": "919",
+          "content": "支持归还正常贷款或拖欠贷款",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3660,
+          "questionId": "919",
+          "content": "支持已拖欠贷款的部分本金或部分利息",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3662,
+          "questionId": "919",
+          "content": "除对本金做特殊处理外，利息，罚息、复利仍然按照由远及近的顺序归还",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3661,
+          "questionId": "919",
+          "content": "对于自营贷款和委托贷款均支持",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 734,
+      "content": "在信贷管理系统中，若一笔核销贷款做了账务移交和业务移交，那么该笔贷款后期核销收回在（    ）回收,贷款借据信息查询在（    ）查询。",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2923,
+          "questionId": "734",
+          "content": "新机构  新机构",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2924,
+          "questionId": "734",
+          "content": "新机构  原机构",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2925,
+          "questionId": "734",
+          "content": "原机构  新机构",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2926,
+          "questionId": "734",
+          "content": "原机构  原机构",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 871,
+      "content": "信贷管理系统中商住楼盘项目合作方立项一般使用（    ）额度控制方式。",
+      "scope": "J",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3471,
+          "questionId": "871",
+          "content": "控制总额+授信产品及金额",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3470,
+          "questionId": "871",
+          "content": "控制总额+授信产品",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3469,
+          "questionId": "871",
+          "content": "控制总额",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "content": "信贷管理系统中同一客户在同一法人行社内允许存在（    ）份生效易贷卡合同。",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3207,
+          "questionId": "805",
+          "content": "3",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3206,
+          "questionId": "805",
+          "content": "2",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3208,
+          "questionId": "805",
+          "content": "多笔",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3205,
+          "questionId": "805",
+          "content": "1",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 733,
+      "content": "在信贷管理系统中业务移交，管户权移交是否可以跨机构移交，移交范围是否可以按照客户经理移交，移交是否实时生效？（    ）",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2920,
+          "questionId": "733",
+          "content": "是  是  否",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2921,
+          "questionId": "733",
+          "content": "是  否  否",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2922,
+          "questionId": "733",
+          "content": "否  否  否",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2919,
+          "questionId": "733",
+          "content": "是  是  是",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 845,
+      "content": "在信贷管理系统中，关于贷款催收的说法错误的是（    ）。",
+      "scope": "J",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3366,
+          "questionId": "845",
+          "content": "每个借据的本金/利息逾期的当天日终处理时系统自动产生催收任务",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3365,
+          "questionId": "845",
+          "content": "系统只生成催收任务，不决定催收方式",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3367,
+          "questionId": "845",
+          "content": "“人工发起”的不允许打印借款人、担保人、借款人和担保人通知书",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3368,
+          "questionId": "845",
+          "content": "“人工发起”的不允许打印到期前催收通知书",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 882,
+      "content": "信贷管理系统中，贷款形式为（    ）时，综合业务系统会自动控制客户借款资金，需要在综合业务系统做解锁交易，才能使用借款资金。",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3513,
+          "questionId": "882",
+          "content": "续贷",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3511,
+          "questionId": "882",
+          "content": "资产重组",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3514,
+          "questionId": "882",
+          "content": "收回再贷",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3512,
+          "questionId": "882",
+          "content": "新增贷款",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "content": "信贷管理系统中关于贷款展期说法正确的是（    ）。",
+      "scope": "J",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 2835,
+          "questionId": "712",
+          "content": "只能展期一次",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2837,
+          "questionId": "712",
+          "content": "能多次展期",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2838,
+          "questionId": "712",
+          "content": "除助学贷款外只能展期一次",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 2836,
+          "questionId": "712",
+          "content": "能展期两次",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 884,
+      "content": "信贷管理系统中（    ）可在人工发起贷后检查任务中发起人工贷后检查任务。",
+      "scope": "J",
+      "type": "S",
+      "answer": "A",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3519,
+          "questionId": "884",
+          "content": "客户经理",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3521,
+          "questionId": "884",
+          "content": "审批人员",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3522,
+          "questionId": "884",
+          "content": "稽核部经理",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3520,
+          "questionId": "884",
+          "content": "财务部经理",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 816,
+      "content": "在信贷管理系统中，担保变更类型选择“担保释放”，选择变更后担保方式，变更后担保方式（    ）原担保方式。",
+      "scope": "J",
+      "type": "S",
+      "answer": "B",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3250,
+          "questionId": "816",
+          "content": "小于",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3249,
+          "questionId": "816",
+          "content": "大于",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3252,
+          "questionId": "816",
+          "content": "小于等于",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3251,
+          "questionId": "816",
+          "content": "等于",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "content": "客户号为12位长度的数字号码，第一位为客户种类，其中6表示（    ）。",
+      "scope": "K",
+      "type": "S",
+      "answer": "C",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3195,
+          "questionId": "802",
+          "content": "对公客户",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3194,
+          "questionId": "802",
+          "content": "对私客户",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3196,
+          "questionId": "802",
+          "content": "同业客户",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "content": "客户号创建识别要素规则是（    ）。",
+      "scope": "K",
+      "type": "S",
+      "answer": "D",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 3175,
+          "questionId": "797",
+          "content": "证件号码+客户名称",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3177,
+          "questionId": "797",
+          "content": "证件类型+证件号码+客户名称",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3176,
+          "questionId": "797",
+          "content": "客户名称",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 3174,
+          "questionId": "797",
+          "content": "证件类型+证件号码",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    }
+  ],
+  "mutiQuesList": [
+    {
+      "id": 1193,
+      "content": "下列说法正确的是 （      ）。",
+      "scope": "A",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4776,
+          "questionId": "1193",
+          "content": "借款人未按照约定的借款用途使用借款的，贷款人可以停止发放借款、提前收回借款或者解除合同",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4774,
+          "questionId": "1193",
+          "content": "贷款人未按照约定的日期、数额提供借款，造成借款人损失的，应当赔偿损失",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4773,
+          "questionId": "1193",
+          "content": "借款的利息不得预先在本金中扣除",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4775,
+          "questionId": "1193",
+          "content": "贷款人按照约定可以检查、监督借款的使用情况。借款人应当按照约定向贷款人定期提供有关财务会计报表等资料",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1191,
+      "content": "非法为他人出具金融票证罪，是指银行或者其他工作人员违反规定，为他人出具（    ），情节严 重的行为。",
+      "scope": "A",
+      "type": "M",
+      "answer": "ABCDE",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4764,
+          "questionId": "1191",
+          "content": "信用证",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4768,
+          "questionId": "1191",
+          "content": "存单",
+          "optionNum": "E",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4766,
+          "questionId": "1191",
+          "content": "票据",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4765,
+          "questionId": "1191",
+          "content": "资信证明",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4767,
+          "questionId": "1191",
+          "content": "保函",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1183,
+      "content": "《中华人民共和国物权法》规定，集体所有的不动产和动产包括（     ）。",
+      "scope": "A",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4734,
+          "questionId": "1183",
+          "content": "矿藏、水流、海域等",
+          "optionNum": "E",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4731,
+          "questionId": "1183",
+          "content": "集体所有的建筑物、生产设施、农田水利设施",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4732,
+          "questionId": "1183",
+          "content": "集体所有的其他不动产和动产",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4730,
+          "questionId": "1183",
+          "content": "法律规定属于集体所有的土地和森林、山岭、草原、荒地、滩涂",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4733,
+          "questionId": "1183",
+          "content": "集体所有教育、科学、文化、卫生、体育等设施",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1196,
+      "content": "《中华人民共和国合同法》规定，借款人未按照约定的借款用途使用借款的，贷款人可以（    ）。",
+      "scope": "A",
+      "type": "M",
+      "answer": "ABC",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4788,
+          "questionId": "1196",
+          "content": "收取违约金",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4787,
+          "questionId": "1196",
+          "content": "解除合同",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4785,
+          "questionId": "1196",
+          "content": "停止发放借款",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4786,
+          "questionId": "1196",
+          "content": "提前收回借款",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1429,
+      "content": "《个人定期存单质押贷款办法》 规定，存单质押担保的范围包括（    ）。",
+      "scope": "B",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 5742,
+          "questionId": "1429",
+          "content": "罚息",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5743,
+          "questionId": "1429",
+          "content": "损害赔偿金",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5744,
+          "questionId": "1429",
+          "content": "违约金",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5741,
+          "questionId": "1429",
+          "content": "贷款本金和利息",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1214,
+      "content": "商业银行的内部人包括商业银行的（    ）。",
+      "scope": "B",
+      "type": "M",
+      "answer": "ABD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4859,
+          "questionId": "1214",
+          "content": "董事",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4861,
+          "questionId": "1214",
+          "content": "股东",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4860,
+          "questionId": "1214",
+          "content": "总行和分行的高级管理人员",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4862,
+          "questionId": "1214",
+          "content": "有权决定或者参与商业银行授信和资产转移的其他人员",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1026,
+      "content": "《银行业金融机构从业人员职业操守指引》规定，从业人员应当（    ）反映银行业金融机构业务信息。",
+      "scope": "B",
+      "type": "M",
+      "answer": "ACD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4090,
+          "questionId": "1026",
+          "content": "真实",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4087,
+          "questionId": "1026",
+          "content": "依法",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4089,
+          "questionId": "1026",
+          "content": "客观",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4088,
+          "questionId": "1026",
+          "content": "合规",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1259,
+      "content": "《汽车贷款管理办法》中的汽车包括下列（    ）类型。",
+      "scope": "C",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 5045,
+          "questionId": "1259",
+          "content": "商用车",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5044,
+          "questionId": "1259",
+          "content": "自用车",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5047,
+          "questionId": "1259",
+          "content": "新能源汽车",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5046,
+          "questionId": "1259",
+          "content": "二手车",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1715,
+      "content": "《安徽省农村商业银行系统固定资产贷款管理办法》规定，贷款人应按照信贷档案管理制度的要求,及时（    ）完整的贷款档案资料。",
+      "scope": "D",
+      "type": "M",
+      "answer": "ABC",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6935,
+          "questionId": "1715",
+          "content": "提供",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6933,
+          "questionId": "1715",
+          "content": "整理",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6934,
+          "questionId": "1715",
+          "content": "保存",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6932,
+          "questionId": "1715",
+          "content": "收集",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1392,
+      "content": "《安徽农村商业银行系统违规贷款责任追究办法》规定，启动违规贷款责任追究的管理部门的职责包括（    ）。",
+      "scope": "D",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 5589,
+          "questionId": "1392",
+          "content": "报送管理委员会审议",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5588,
+          "questionId": "1392",
+          "content": "提交相关部门复审",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5587,
+          "questionId": "1392",
+          "content": "拟定、审核违规贷款责任追究建议",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5586,
+          "questionId": "1392",
+          "content": "违规贷款责任追究资料的搜集、管理",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1667,
+      "content": "根据信贷资产的不同特点,将其分为（    ）类型进行风险分类。",
+      "scope": "D",
+      "type": "M",
+      "answer": "AB",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6742,
+          "questionId": "1667",
+          "content": "对私贷款",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6740,
+          "questionId": "1667",
+          "content": "公司类贷款",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6741,
+          "questionId": "1667",
+          "content": "对公贷款",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6739,
+          "questionId": "1667",
+          "content": "自然人贷款和微型企业贷款",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1418,
+      "content": "《安徽农村商业银行系统贷后管理操作实施细则》规定，贷款诉讼管理应遵守（    ）原则。",
+      "scope": "D",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 5696,
+          "questionId": "1418",
+          "content": "及时、高效、稳妥原则",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5697,
+          "questionId": "1418",
+          "content": "维权与协调相统一原则",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5695,
+          "questionId": "1418",
+          "content": "协商、调解为主原则",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5694,
+          "questionId": "1418",
+          "content": "预防为主、慎重起诉原则",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1725,
+      "content": "《安徽农村商业银行系统流动资金贷款管理办法》规定，流动资金贷款人应在合同中与借款人约定（    ）,并有权对借款人相关账户实施监控管理。",
+      "scope": "D",
+      "type": "M",
+      "answer": "ACD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6975,
+          "questionId": "1725",
+          "content": "资金回笼账户",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6974,
+          "questionId": "1725",
+          "content": "还款保证金账户",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6973,
+          "questionId": "1725",
+          "content": "贷款发放账户",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6976,
+          "questionId": "1725",
+          "content": "还款准备金账户",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1444,
+      "content": "生源地助学贷款借款学生可以随时登录系统查询自己名下助学贷款的相关信息，包括（    ）。",
+      "scope": "E",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 5807,
+          "questionId": "1444",
+          "content": "贷款期限",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5808,
+          "questionId": "1444",
+          "content": "还款计划",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5809,
+          "questionId": "1444",
+          "content": "还款历史",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5806,
+          "questionId": "1444",
+          "content": "贷款余额",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1504,
+      "content": "安徽省创新推广“一自三合”扶贫小额信贷模式,其中“三合”指的是（    ）。",
+      "scope": "F",
+      "type": "M",
+      "answer": "BCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6060,
+          "questionId": "1504",
+          "content": "户贷户用合伙发展模式",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6059,
+          "questionId": "1504",
+          "content": "户贷户用自我发展模式",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6061,
+          "questionId": "1504",
+          "content": "户贷社管合作发展模式",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6062,
+          "questionId": "1504",
+          "content": "户贷社管合营发展模式",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1468,
+      "content": "《个人信用信息基础数据库管理暂行办法》规定，商业银行有下列情形之一的，由中国人民银行责令改正，并处一万元以上三万元以下罚款；涉嫌犯罪的，依法移交司法机关处理(     )。",
+      "scope": "G",
+      "type": "M",
+      "answer": "BCDE",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 5904,
+          "questionId": "1468",
+          "content": "未按照本办法规定建立相应管理制度及操作规程",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5908,
+          "questionId": "1468",
+          "content": "违反本办法安全管理要求的",
+          "optionNum": "E",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5907,
+          "questionId": "1468",
+          "content": "违反异议处理规定的",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5906,
+          "questionId": "1468",
+          "content": "越权查询个人信用数据库",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5905,
+          "questionId": "1468",
+          "content": "违反本办法规定，未准确、完整、及时报送个人信用信息",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1486,
+      "content": "在个人征信系统用户管理方面，以下选项错误的是（    ）。",
+      "scope": "G",
+      "type": "M",
+      "answer": "BCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 5983,
+          "questionId": "1486",
+          "content": "商业银行应该建立和完善用户管理制度，明确管理员用户、数据上报用户和信息查询用户的职责及操作规程",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5985,
+          "questionId": "1486",
+          "content": "在各类用户工作人员调离时，可以直接对用户予以停用，不需向当地人民银行报备",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5984,
+          "questionId": "1486",
+          "content": "管理员用户、数据上报用户和查询用户在有需要时可以互相兼任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 5986,
+          "questionId": "1486",
+          "content": "管理员用户可以查询个人信用报告",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1516,
+      "content": "伪造、变造票据和结算凭证上的签章或其他记载事项的，应当承担（    ）。",
+      "scope": "H",
+      "type": "M",
+      "answer": "BC",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6109,
+          "questionId": "1516",
+          "content": "刑事责任",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6110,
+          "questionId": "1516",
+          "content": "银行内部处分",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6107,
+          "questionId": "1516",
+          "content": "行政责任",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6108,
+          "questionId": "1516",
+          "content": "民事责任",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1518,
+      "content": "票据上（    ）记载事项不得更改，更改的票据无效。",
+      "scope": "H",
+      "type": "M",
+      "answer": "ABC",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6115,
+          "questionId": "1518",
+          "content": "票据金额",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6117,
+          "questionId": "1518",
+          "content": "收款人名称",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6116,
+          "questionId": "1518",
+          "content": "日期",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6118,
+          "questionId": "1518",
+          "content": "付款人名称",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1612,
+      "content": "农村商业银行信贷的基本特征主要有（    ）。",
+      "scope": "I",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6511,
+          "questionId": "1612",
+          "content": "融通性",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6509,
+          "questionId": "1612",
+          "content": "有偿性",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6510,
+          "questionId": "1612",
+          "content": "周转性",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6512,
+          "questionId": "1612",
+          "content": "零售性",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1657,
+      "content": "下列属于财务效益预测与评估的静态分析法指标有（   ）。",
+      "scope": "I",
+      "type": "M",
+      "answer": "AC",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6696,
+          "questionId": "1657",
+          "content": "投资利润率",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6697,
+          "questionId": "1657",
+          "content": "净现值",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6698,
+          "questionId": "1657",
+          "content": "贷款偿还期",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6699,
+          "questionId": "1657",
+          "content": "财务内部收益率",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1586,
+      "content": "目前客户申请贷款的方式有（    ）。",
+      "scope": "I",
+      "type": "M",
+      "answer": "ABC",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6400,
+          "questionId": "1586",
+          "content": "柜面",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6401,
+          "questionId": "1586",
+          "content": "电话",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6402,
+          "questionId": "1586",
+          "content": "网络",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6403,
+          "questionId": "1586",
+          "content": "信函",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1627,
+      "content": "银行资产保全通常是指对不良资产进行（    ）等一系列活动。",
+      "scope": "I",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6571,
+          "questionId": "1627",
+          "content": "盘活",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6572,
+          "questionId": "1627",
+          "content": "管理",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6570,
+          "questionId": "1627",
+          "content": "清收",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6573,
+          "questionId": "1627",
+          "content": "处置",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1684,
+      "content": "小微企业“两增”目标是（    ）。",
+      "scope": "I",
+      "type": "M",
+      "answer": "AB",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6809,
+          "questionId": "1684",
+          "content": "单户授信总额1000万元以下(含)小微企业贷款同比增速不低于各项贷款同比增速",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6811,
+          "questionId": "1684",
+          "content": "贷款获得率不低于上年同期水平",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6810,
+          "questionId": "1684",
+          "content": "贷款户数不低于上年同期水平",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1594,
+      "content": "信贷经营和管理必须坚持（    ）相统一的原则。",
+      "scope": "I",
+      "type": "M",
+      "answer": "ACD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 6435,
+          "questionId": "1594",
+          "content": "流动性",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6433,
+          "questionId": "1594",
+          "content": "安全性",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6436,
+          "questionId": "1594",
+          "content": "效益性",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 6434,
+          "questionId": "1594",
+          "content": "一贯性",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1082,
+      "content": "信贷管理系统中关于发放与支付主要规则说法正确的是（    ）。",
+      "scope": "J",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4314,
+          "questionId": "1082",
+          "content": "系统支持由总行至支行放款模式，将总行的信贷机构配置支行的会计机构，可以将总行发起的贷款放入对应的支行会计机构",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4316,
+          "questionId": "1082",
+          "content": "同一个合同仅允许有一笔在途的发放申请",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4313,
+          "questionId": "1082",
+          "content": "当天生成的放款申请即借据信息，如果当天没有完成发放入账。系统在晚间日切前自动删除借据，并回滚主合同可用额度。需要用款时，要重新发起放款申请",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4315,
+          "questionId": "1082",
+          "content": "系统将对合同进行过滤，已过期合同、无余额合同都不会在发放申请中出现",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1072,
+      "content": "信贷管理系统中利率调整说法正确的是（    ）。",
+      "scope": "J",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4276,
+          "questionId": "1072",
+          "content": "未结清、未到期贷款可以发起利率变更",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4275,
+          "questionId": "1072",
+          "content": "利率变更是以借据为单位，变更后借据信息随之变更，但合同中的利率信息不会改变",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4273,
+          "questionId": "1072",
+          "content": "变更协议签订，利率变更生效",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4274,
+          "questionId": "1072",
+          "content": "以协议生效为时间点，进行分段计息",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1049,
+      "content": "信贷管理系统通过客户号从核心系统获取客户关键信息（    ）。",
+      "scope": "J",
+      "type": "M",
+      "answer": "ABC",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4182,
+          "questionId": "1049",
+          "content": "证件类型、证件号码",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4181,
+          "questionId": "1049",
+          "content": "客户名",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4180,
+          "questionId": "1049",
+          "content": "客户号",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4183,
+          "questionId": "1049",
+          "content": "证件号码",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1091,
+      "content": "信贷管理系统目前只支持（    ）凭证打印。",
+      "scope": "J",
+      "type": "M",
+      "answer": "ABCD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4352,
+          "questionId": "1091",
+          "content": "支付回单打印",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4350,
+          "questionId": "1091",
+          "content": "当天贷款发放凭证打印",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4351,
+          "questionId": "1091",
+          "content": "委托放款回单打印",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4353,
+          "questionId": "1091",
+          "content": "保证金回单打印",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    },
+    {
+      "id": 1107,
+      "content": "客户信息（ECIF）系统中，通过以下 （    ）查询类型可以使新建按钮由灰色变成可用状态。",
+      "scope": "K",
+      "type": "M",
+      "answer": "AD",
+      "remark": null,
+      "remark2": null,
+      "options": [
+        {
+          "id": 4413,
+          "questionId": "1107",
+          "content": "证件类型+证件号码",
+          "optionNum": "A",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4415,
+          "questionId": "1107",
+          "content": "手机号码",
+          "optionNum": "C",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4416,
+          "questionId": "1107",
+          "content": "证件类型+证件号码+客户名称",
+          "optionNum": "D",
+          "remark": null,
+          "remark2": null
+        },
+        {
+          "id": 4414,
+          "questionId": "1107",
+          "content": "客户名称",
+          "optionNum": "B",
+          "remark": null,
+          "remark2": null
+        }
+      ]
+    }
+  ],
+  "judgeQuesList": [
+    {
+      "id": 1754,
+      "content": "根据《中华人民共和国物权法》规定，债务人不履行到期债务或者发生当事人约定的实现抵押权的情形，抵押权人可以与抵押人协议以抵押财产折价或者以拍卖、变卖该抵押财产所得的价款优先受偿。",
+      "scope": "A",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 1750,
+      "content": "第三人提供担保，未经其书面同意，债权人允许债务人转移全部或者部分债务的，担保人不再承担相应的担保责任。",
+      "scope": "A",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 1769,
+      "content": "《中华人民共和国商业银行法》规定，借款人到期不归还担保贷款的，商业银行依法享有要求保证人归还贷款本金和利息或者就该担保物受偿的权利。商业银行因行使抵押权、质权而取得的不动产或者股权，应当自取得之日起一年内予以处分。",
+      "scope": "A",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2159,
+      "content": "商业银行应对第二还款来源进行分析评价，确认保证人的保证主体资格和代偿能力，以及抵押、质押的合法性、充分性和可实现性。",
+      "scope": "B",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2392,
+      "content": "商业银行主要股东自取得股权之日起3年内不得转让所持有的股权。",
+      "scope": "B",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2145,
+      "content": "按照《贷款通则》规定，自营贷款期限最长一般不得超过15年，超过15年应当报中国人民银行备案。",
+      "scope": "C",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 1834,
+      "content": "《安徽农村商业银行系统客户信用等级评定操作实施细则》规定，农户评级定性、定量指标录入后,信贷系统自动产生评级结果,无需人工调整和审批认定,可直接应用;也可使用按照评级审批流程审核认定的评级结果。",
+      "scope": "D",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2003,
+      "content": "如果影响借款人财务状况或贷款偿还的因素发生重大变化，应及时调整对贷款的分类。",
+      "scope": "D",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2440,
+      "content": "《安徽农村商业银行系统固定资产贷款管理办法》规定，借款人受托支付是指贷款人根据借款人的提款申请,将贷款资金发放至借款人账户后,由借款人支付给符合合同约定用途的借款人交易对手。",
+      "scope": "D",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2460,
+      "content": "《安徽农村商业银行系统流动资金贷款管理办法》规定，贷款合同文本的签订必须执行面谈、面签制度。",
+      "scope": "D",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 1885,
+      "content": "已签订2017年新版生源地信用助学贷款合同的学生，同一学历阶段的往后每学年再次用款时，可以直接通过系统提交用款申请，无需前往经办银行现场办理。",
+      "scope": "E",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 1928,
+      "content": "个人信用报告中的逾期（透支）信息汇总主要反映信用主体最近2年内有多少个月发生逾期（透支），以及逾期（透支）的严重程度。",
+      "scope": "G",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 1986,
+      "content": "对票据未记载事项或者未完全记载事项作补充记载，补充事项超出授权范围的，出票人对补充后的票据应当承担票据责任。给他人造成损失的，出票人还应当承担相应的民事责任。",
+      "scope": "H",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2036,
+      "content": "现金流量指企业现金流入和流出。",
+      "scope": "I",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2064,
+      "content": "用某些客户的信用等级可以代替对贷款的分类，以减少不必要的重复劳动。",
+      "scope": "I",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2050,
+      "content": "现金流量分析中采用的会计处理原则是权责发生制。",
+      "scope": "I",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2011,
+      "content": "借款人风险越高，则银行应获得的风险报酬越高，贷款的利率相应的越高。",
+      "scope": "I",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2254,
+      "content": "信贷管理系统中，循环合同项下所有的贷款结清或者循环合同到期且其下所有贷款结清，合同状态在当日批处理后自动变为『执行完毕』，也可以在在合同项下所有借据都结清的情况下，手动解除合同。",
+      "scope": "J",
+      "type": "J",
+      "answer": "0",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2179,
+      "content": "信贷管理系统中，押品移交是押品的业务和账务同步移交，仅限于同一法人行内跨机构移交，本机构内不能进行押品移交。",
+      "scope": "J",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    },
+    {
+      "id": 2252,
+      "content": "信贷管理系统中，担保合同下的所有担保物都记账完成后才能发起贷款发放申请。",
+      "scope": "J",
+      "type": "J",
+      "answer": "1",
+      "remark": null,
+      "remark2": null,
+      "options": null
+    }
+  ]
+}

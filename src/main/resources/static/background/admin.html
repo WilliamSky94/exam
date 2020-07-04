@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>抽奖后台管理页面</title>
+    <link rel="stylesheet" href="../css/layui.css">
+</head>
+
+<body>
+<div class="layui-container">
+    <div class="layui-row">
+        <div class="layui-tab layui-tab-brief">
+            <ul class="layui-tab-title">
+                <li class="layui-this" style="display: none">试卷模板配置</li>
+                <li>考试用户</li>
+                <li>考试记录</li>
+            </ul>
+            <div class="layui-tab-content">
+                <div class="layui-tab-item layui-show">
+
+                    <fieldset class="layui-elem-field">
+                        <legend>新增奖品</legend>
+                        <div class="layui-field-box">
+                            <form class="layui-form" id="prizeForm" enctype="multipart/form-data">
+                                <div class="layui-form-item">
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">奖品名称</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="prizeName" autocomplete="off" class="layui-input"
+                                                   required>
+                                        </div>
+                                    </div>
+
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">奖品数量</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="prizeCount" autocomplete="off" class="layui-input"
+                                                   required>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="layui-form-item">
+
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">中奖权重</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="weights" autocomplete="off" class="layui-input"
+                                                   required>
+                                        </div>
+                                    </div>
+
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">图片</label>
+                                        <div class="layui-input-inline">
+                                            <input type="file" name="file" autocomplete="off" class="layui-input"
+                                                   required>
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="submit" class="layui-btn">保存</button>
+                            </form>
+
+                        </div>
+                    </fieldset>
+
+
+                    <fieldset class="layui-elem-field">
+                        <legend>奖品列表</legend>
+                        <div class="layui-field-box">
+                            <button type="button" class="layui-btn" onclick="savePrizes()">保存</button>
+                            <button type="button" class="layui-btn layui-btn-primary" onclick="deletePrize()">删除
+                            </button>
+                            <table id="prizes" lay-size="lg" lay-data="{id: 'prizeTable'}"
+                                   lay-filter="prizeTable"></table>
+                        </div>
+                    </fieldset>
+
+
+                </div>
+                <div class="layui-tab-item">
+                    <button type="button" class="layui-btn">导入</button>
+                    <table id="customers" lay-size="lg"></table>
+                </div>
+                <div class="layui-tab-item">
+
+                    <form class="layui-form">
+                        <div class="layui-form-item">
+                            <select id="prizesSelect" lay-filter="prizeSelect">
+                                <option value="">请选择奖品名称</option>
+                            </select>
+                        </div>
+                    </form>
+
+                    <table id="records" lay-size="lg" lay-data="{id: 'recordData'}" lay-filter="recordData"></table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="../js/layui.all.js"></script>
+<script src="../js/jquery.min.js"></script>
+
+<script>
+    var table = layui.table;
+    var selectPrizeId; // 选中的行
+    var editRow = []; // 编辑过的行
+    var form = layui.form;
+
+
+    // 新增礼物
+    $("#prizeForm").on("submit", function (ev) {
+        var formData = new FormData(document.getElementById("prizeForm"));
+        $.ajax({
+            url: "/addPrice",
+            type: "post",
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function (data) {
+                alert("保存成功！");
+                window.location.reload();
+            },
+            error: function (e) {
+                console.log(e);
+            }
+        });
+        //阻止submit表单提交
+        ev.preventDefault();
+    });
+
+    //删除礼物
+    function deletePrize() {
+        $.ajax({
+            url: "/deletePrize",
+            type: "get",
+            data: {"id": selectPrizeId},
+            success: function (data) {
+                alert("删除成功！");
+                window.location.reload();
+            },
+        })
+    }
+
+    // 保存礼物编辑
+    function savePrizes() {
+        $.ajax({
+            url: "/savePrizes",
+            type: "post",
+            data: JSON.stringify(editRow),
+            processData: false,
+            contentType: "application/json",
+            success: function (data) {
+                alert("保存成功！");
+                window.location.reload();
+            },
+        })
+    }
+
+
+    //监听行单击事件（双击事件为：rowDouble）
+    table.on('row(prizeTable)', function (obj) {
+        selectPrizeId = obj.data.id;
+        //标注选中样式
+        obj.tr.addClass('layui-table-click').siblings().removeClass('layui-table-click');
+    });
+
+    //监听单元格编辑
+    table.on('edit(prizeTable)', function (obj) {
+        delete obj.data.image
+        editRow.push(obj.data);
+    });
+
+    //奖品列表
+    table.render({
+        elem: '#prizes',
+        url: '/prizes', //数据接口
+        page: false, //开启分页
+        cols: [[ //表头
+            {field: 'id', title: 'ID', hide: true}
+            , {field: 'prizeName', title: '奖品名称', edit: 'text'}
+            , {field: 'remainingPrize', title: '剩余数量', edit: 'text'}
+            , {field: 'gettedPrize', title: '已中数量'}
+            , {field: 'weights', title: '奖品权重', edit: 'text'}
+            , {field: 'probability', title: '中奖概率'}
+            , {field: 'imageName', title: '图片名称'}
+            , {field: 'image', title: '图片预览', templet: '<div><img src="data:image/jpeg;base64,{{d.image.data}}"></div>'}
+        ]]
+    });
+    //参与用户
+    table.render({
+        elem: '#customers',
+        url: '/customers', //数据接口
+        page: true, //开启分页
+        limit: 12,
+        cols: [[ //表头
+            {field: 'id', title: 'ID', width: 120}
+            , {field: 'customerName', title: '客户名称'}
+            , {field: 'phone', title: '手机号'}
+            , {field: 'frequency', title: '剩余次数'}
+        ]]
+    });
+    //中奖记录
+    table.render({
+        elem: '#records',
+        id: 'recordTable',
+        url: '/records', //数据接口
+        title: '中奖记录表',
+        toolbar: '#selectRecords',
+        defaultToolbar: ['exports', 'print'],
+        page: true, //开启分页
+        limit: 12,
+        cols: [[ //表头
+            {field: 'id', title: 'ID', width: 120}
+            , {field: 'customerName', title: '客户名称'}
+            , {field: 'phone', title: '手机号'}
+            , {field: 'prizeName', title: '奖品名称'}
+            , {field: 'recordTime', title: '记录时间'}
+        ]]
+    });
+
+    window.onload = function () {
+        getPrizeNames();
+    }
+
+    function getPrizeNames() {
+        $.ajax({
+            url: "/getPrzieNames",
+            type: "get",
+            success: function (data) {
+                $.each(data, function (index, item) {
+                    $('#prizesSelect').append(new Option(item, item));// 下拉菜单里添加元素
+                    form.render('select');
+                });
+            }
+        });
+    }
+
+
+
+    form.on('select(prizeSelect)', function (data) {
+        var val = data.value;
+        table.reload('recordTable', {
+            url: '/records'
+            , where: {name: val} //设定异步数据接口的额外参数
+            //,height: 300
+        });
+    });
+
+
+</script>
+</body>
+</html>

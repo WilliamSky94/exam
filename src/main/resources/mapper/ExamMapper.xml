@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sxnsh.exam.mapper.ExamMapper">
+
+    <!-->根据ID查找用户信息 传入表名必须用$ 用#会被？占位符代替 不能查到 <-->
+    <select id="findLastInsertId" resultType="integer" parameterType="string">
+		select LAST_INSERT_ID() from ${tableName}
+    </select>
+
+    <!-->将问题插入问题表 <-->
+    <insert id ="insertQuestion" parameterType="com.sxnsh.exam.entity.ExamQuestion">
+        <selectKey resultType="java.lang.Integer" keyProperty="id" order="AFTER">
+            select LAST_INSERT_ID()
+        </selectKey>
+        insert into exam_question(content, scope, type, answer) values(#{content},#{scope},#{type},#{answer})
+    </insert>
+
+    <!-->将选项插入选项表  单个选项 <-->
+    <insert id="inserOption" parameterType="com.sxnsh.exam.entity.ExamOptions">
+        insert into exam_options(questionId, content, optionNum, remark, remark2) values (#{questionId},#{content},#{optionNum},#{remark},#{remark2})
+    </insert>
+
+    <!-->将选项插入选项表  多个选项 <-->
+    <insert id="insertOptions" parameterType="List">
+        <![CDATA[
+        insert into exam_options
+        (questionId, content, optionNum, remark, remark2)
+        values
+        ]]>
+
+        <foreach collection="list" item="item" index="index" separator=",">
+            (
+            #{item.questionId, jdbcType=VARCHAR},
+            #{item.content, jdbcType=VARCHAR},
+            #{item.optionNum, jdbcType=VARCHAR},
+            #{item.remark, jdbcType=VARCHAR},
+            #{item.remark2, jdbcType=VARCHAR}
+            )
+        </foreach>
+    </insert>
+
+    <!-->根据templateId查找试卷配置模板 <-->
+    <select id="findTemplateById" parameterType="java.lang.String" resultType="com.sxnsh.exam.entity.ExamTemplate">
+        select * from exam_template where id = #{templateId}
+    </select>
+
+    <!-->根据 题目考察范围 题库类型 题型 和 随机抽取数目 抽取对应的题目<-->
+    <select id="findRandQuesByParam" parameterType="java.util.Map" resultType="com.sxnsh.exam.vo.QuestForTest">
+        select * from exam_question where scope = #{scope} and examType = #{examType} and type = #{type} order by rand() limit #{limitNum}
+    </select>
+
+    <!-->根据quesId 查找其对应的选项，打乱顺序 <-->
+    <select id="findRandOptionsByQuesId" parameterType="java.util.Map" resultType="com.sxnsh.exam.entity.ExamOptions">
+        select * from exam_options where questionId = #{quesId} order by rand() limit  #{limitNum}
+    </select>
+
+    <!-->根据quesId 获取正确答案 <-->
+    <select id="findQuestionByQuesId" parameterType="java.lang.Integer" resultType="com.sxnsh.exam.entity.ExamQuestion">
+        select * from exam_question where id = #{questionId}
+    </select>
+
+    <!-->插入考试记录 <-->
+    <insert id="inserExamRecord" parameterType="com.sxnsh.exam.entity.ExamRecord">
+        insert into exam_record (templateId, userId, userName, score, userAnswerList, organization, correctSingleNum, singleTScore, correctMutiNum, mutiTScore, correctJudgeNum, judgeTScore )
+        values (#{templateId}, #{userId}, #{userName}, #{score}, #{userAnswerList}, #{organization}, #{correctSingleNum}, #{singleTScore}, #{correctMutiNum}, #{mutiTScore}, #{correctJudgeNum}, #{judgeTScore})
+    </insert>
+
+    <!-->查找所有有效的考试模板 <-->
+    <select id="findAllExam"  resultType="com.sxnsh.exam.entity.ExamTemplate">
+        select * from exam_template where useFlag = 1;
+    </select>
+
+    <!-->查找所有考试记录 <-->
+    <select id="findRecordByPage"  parameterType="java.lang.String" resultType="com.sxnsh.exam.entity.ExamRecord">
+        select a.*, date_format(a.createtime, '%Y-%m-%d %H:%i:%s') as testTime, b.templateName as templateName, o.NAME as orgName from exam_record a
+        left join exam_template b on a.templateId = b.id
+        left join exam_organization o on a.organization = o.CODE
+        WHERE  1=1
+        <if test="id !=null and id!= ''">
+            AND a.templateId=#{id}
+        </if>
+        <if test="orgId !=null and orgId!= ''">
+            AND a.organization =#{orgId}
+        </if>
+        order by a.createtime desc
+    </select>
+
+    <!-->查找所有有效的机构 且不是1级机构的 <-->
+    <select id="findAllOrgs"  resultType="com.sxnsh.exam.entity.ExamOrganization">
+        select * from exam_organization where DELFLAG !='1' and `LEVEL` != '1';
+    </select>
+
+
+</mapper>

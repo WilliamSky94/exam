@@ -1,0 +1,35 @@
+/**考试题页面自定义的css**/
+.quesTitle{
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.label-title{
+    width: 100%;
+    position: relative;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.titlebar-span{
+    margin-left: 0!important;
+    margin-top: -5px;
+}
+
+.rightAns {
+    font-size: 16px;
+    color: #363636;
+    margin: 10px 0px;
+    display: none;
+}
+
+/**为DOM元素添加属性，以便可以在ios13以下系统绑定点击事件**/
+.clickable{
+    cursor:pointer;
+}
+
+
+/**结果展示页 自定义类  加边界效果**/
+.border-line {
+    border-right:1px solid #d5d5d5;
+}
