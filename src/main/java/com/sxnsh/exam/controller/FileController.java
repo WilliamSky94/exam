@@ -22,7 +22,7 @@ public class FileController {
      */
     @GetMapping("file/{filePath}")
     public int transFileToData(@PathVariable("filePath") String filepath){
-        filepath = "D:\\工作\\项目-在线考试\\在线考试系统\\题库\\党务知识考试\\2020年6月24日党务知识测试题库1.xls";
+        filepath = "D:\\工作\\项目-在线考试\\在线考试系统\\题库\\营销经理考试\\考试题库导入模板1.xls";
         return fileService.transFileToData(filepath);
     }
 

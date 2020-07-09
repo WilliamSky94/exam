@@ -100,7 +100,7 @@ public class FileService {
                                 /**处理题目信息-----------end**/
 
                                 /**处理选项-----------start**/
-                                /**选择题好处理一些，直接放正确和错误的两个选项就行**/
+                                /**判断题好处理一些，直接放正确和错误的两个选项就行**/
                                 if("J".equals(examQuestion.getType())){
                                     List<ExamOptions> options = new ArrayList<ExamOptions>();
                                     ExamOptions rightOption = new ExamOptions();

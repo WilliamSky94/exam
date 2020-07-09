@@ -11,6 +11,7 @@ var examInfo = {
   "score": {},
   "doingIndex": 0,
   "isPractice": '',
+  "showTips": true,
   "remark": ''
 };
 
@@ -211,8 +212,10 @@ function getPaperById() {
 
                     /**根据是否练习模式的标志 决定是否展示答案的栏目**/
                     if(examInfo.isPractice == '1'){
+                        examInfo.showTips = true;
                         $("#exam-html #AnsDis").show();
                     }else{
+                        examInfo.showTips = false;
                         $("#exam-html #AnsDis").hide();
                     }
 
@@ -286,6 +289,19 @@ function examHtmlInit() {
 
     $("#exam-html").on('click',' #AnsDis',function(){
 
+        var showTips = examInfo.showTips;
+        if(showTips){
+            var btnArray = ["不再提示", "了解"];
+
+            mui.confirm("由于选项随机排序，请留意答案的内容，", "温馨提示", btnArray, function(e) {
+                if (e.index == 0) {
+                    // window.localStorage.setItem("examInfo",JSON.stringify(examInfo));
+                    examInfo.showTips = false;
+                } else {
+
+                }
+            })
+        }
         var questionid=$("#QuesDoing").val();
         if(questionid=="")
         {
@@ -491,7 +507,7 @@ function examHtmlInit() {
     });
 
     /**点击返回提示 确认后再返回**/
-    $("#exam-html").on('click','.back', function () {
+    $("#exam-html").on('click','.topBack', function () {
 
         var btnArray = ["否", "是"];
 

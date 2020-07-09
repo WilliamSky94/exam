@@ -23,6 +23,60 @@
     display: none;
 }
 
+.prev{
+    float: left;
+    left:1rem;
+}
+
+.next{
+    float: right;
+    right: 1rem;
+}
+
+.changeQues{
+    position: fixed;
+    bottom: 80px;
+    border-color: #0b76ac;
+    border-radius: inherit;
+    display: block;
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+    /*background-color: rgb(233, 104, 107);*/
+    background-color: #7caadb;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 6px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    font-family: 微软雅黑;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    outline: 0px;
+    padding: 8px 18px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: all 0.2s ease-out 0s;
+    border-radius: 2px;
+}
+
+.topBack{
+    font-size: 20px!important;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.titlebar a:visited{
+    color: #ffffff;
+    font-family: microsoft yahei;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
 /**为DOM元素添加属性，以便可以在ios13以下系统绑定点击事件**/
 .clickable{
     cursor:pointer;
